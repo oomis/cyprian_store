@@ -8,16 +8,3 @@
  *= require_self
  *= require_tree .
 */
-
-@import "bootstrap";
-
-.donkey {
-	color: red;
-}
-
-.carousel-inner > .item > img, .carousel-inner > .item > a > img {
-    display: block;
-    width: 100%;
-    height: 500px;
-    line-height: 1;
-}

@@ -11,3 +11,8 @@
 
 //= require_tree .
 //= require spree/frontend/spree_auth
+//= require jquery3
+//= require popper
+//= require bootstrap-sprockets
+
+
